@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-mocha-mu-31.vercel.app/:match*"
+      "destination": "https://ncm-api.yingming006.cn/:match*"
     }
   ]
 }
